@@ -7,12 +7,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+  This project is a resource for teachers and parents to identify potential interventions and solutions to behavioral concerns that child exhibit in the classroom and at home. Users have the opportunity to create accounts, find potential low-level interventions based on a child's specific situation and needs, and add interventions to a database that other users can access. Users can leave comments or rate interventions based on efficacy and share interventions with others. Users can also search for interventions based on student need without making an account.
+
 ### Features
-Include Features here
+1. User login- Users will create accounts to login to the application and will have a profile page.
+2. Search- Users will be able to search for interventions for a child based on the child's specific needs.
+3. Create- Users will be able to create interventions to add to the database for other users to access.
+4. Comment- Users will be able to comment on interventions or rate them for their efficacy.
+5. Share- Users will have the ability to share useful interventions with others.
 ### Technologies
-Include Technologies here
+-Java
+-Spring Boot
+-MySQL
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+-CSS/HTML for user profiles
+-Advanced/complex queries to display results from multiple tables or arrays.
+-Advanced authentication (use of 2 step authentication)
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/JQhAYxiC/liftoff-project
