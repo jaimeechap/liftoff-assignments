@@ -12,8 +12,8 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 ### Project Tracker
 
-[Group Trello Board] (https://trello.com/b/DDDDSDj5/kanban-template)
+[Group Trello Board](https://trello.com/b/DDDDSDj5/kanban-template)
 
 ### Project Repo Link
 
-[Project Repo] (https://github.com/April-2022-LC-LiftOff/tomh-group-repo)
+[Project Repo](https://github.com/April-2022-LC-LiftOff/tomh-group-repo)
