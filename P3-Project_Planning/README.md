@@ -12,8 +12,8 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Group Trello Board] (https://trello.com/b/DDDDSDj5/kanban-template)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Project Repo] (https://github.com/April-2022-LC-LiftOff/tomh-group-repo)
